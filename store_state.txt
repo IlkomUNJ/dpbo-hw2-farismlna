@@ -1,0 +1,10 @@
+[BUYERS]
+2
+1 Alice Jl. Mawar 0812345678 alice@mail.com
+2 Bob Jl. Melati 0898765432 bob@mail.com
+[SELLERS]
+1
+101 Bob Store Jl. Melati No.2 0811223344 storebob@mail.com 2 2
+1 Gaming Mouse 10 50
+2 Keyboard 5 120
+[TRANSACTIONS]
